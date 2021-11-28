@@ -9,3 +9,13 @@
 }
 }
 
+.footer-link {
+  color: green;
+  margin-left: 15px;
+  text-decoration:none;
+  &:hover {
+    color: red;
+    text-decoration: underline;
+  }
+}
+
